@@ -3,6 +3,11 @@
 
 An AI-powered web application that generates personalized recipes by analyzing images of available ingredients using computer vision and large language models.
 
+## 📷 ScreenShots
+<img width="1913" height="840" alt="Screenshot 2025-11-15 020808" src="https://github.com/user-attachments/assets/91133ffa-d4e2-47cd-b9f9-b2cca244fce7" />
+<img width="1909" height="861" alt="Screenshot 2025-11-15 020756" src="https://github.com/user-attachments/assets/41e87329-f525-44be-b3c3-1f7307b306c9" />
+
+
 
 ## 🌟 Features
 
