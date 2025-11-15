@@ -15,8 +15,7 @@ import Grid from '@mui/material/GridLegacy';
 
 import {
   CloudUpload as UploadIcon,
-  Delete as DeleteIcon,
-  Image as ImageIcon
+  Delete as DeleteIcon
 } from '@mui/icons-material';
 
 interface ImageUploadProps {

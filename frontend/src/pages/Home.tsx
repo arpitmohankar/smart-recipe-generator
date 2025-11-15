@@ -8,20 +8,16 @@ import {
   TextField,
   IconButton,
   Stack,
-  Chip,
-  CircularProgress,
-  Avatar
+  CircularProgress
 } from '@mui/material';
 import {
   Send as SendIcon,
   AttachFile as AttachFileIcon,
-  Restaurant as RestaurantIcon,
-  Clear as ClearIcon
+  Restaurant as RestaurantIcon
 } from '@mui/icons-material';
 
 import ImageUpload from '../components/ImageUpload';
 import FilterSection from '../components/FilterSection';
-import RecipeCard from '../components/RecipeCard';
 
 import { chatAPI, imageAPI } from '../services/api';
 import type { Message } from '../services/api';
